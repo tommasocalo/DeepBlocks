@@ -1,0 +1,180 @@
+{
+    "Intelligence Wizard":
+        [
+            {
+                "name": "Graphical interface",
+                "dependency":
+                    [
+                        {
+                            "name": "pyqtgraph",
+                            "desc": "",
+                            "type": "lib",
+                            "homepage":
+                                [
+                                    ""
+                                ],
+                            "doc":
+                                [
+                                    ""
+                                ],
+                            "install":
+                                [
+                                    {
+                                        "type": "pip",
+                                        "target": "pyqtgraph",
+                                        "tested":
+                                            [
+                                                "xubuntu 14.04"
+                                            ]
+                                    }
+                                ]
+                        },
+                        {
+                            "name": "scipy",
+                            "desc": "",
+                            "type": "lib",
+                            "homepage":
+                                [
+                                    ""
+                                ],
+                            "doc":
+                                [
+                                    ""
+                                ],
+                            "install":
+                                [
+                                    {
+                                        "type": "pip",
+                                        "target": "scipy",
+                                        "tested":
+                                            [
+                                                "xubuntu 14.04"
+                                            ]
+                                    }
+                                ]
+                        },
+                        {
+                            "name": "scikit-learn",
+                            "desc": "",
+                            "type": "lib",
+                            "homepage":
+                                [
+                                    ""
+                                ],
+                            "doc":
+                                [
+                                    ""
+                                ],
+                            "install":
+                                [
+                                    {
+                                        "type": "pip",
+                                        "target": "pyqtgraph",
+                                        "tested":
+                                            [
+                                                "xubuntu 14.04"
+                                            ]
+                                    }
+                                ]
+                        },
+                        {
+                            "name": "pytorch",
+                            "desc": "",
+                            "type": "lib",
+                            "homepage":
+                                [
+                                    ""
+                                ],
+                            "doc":
+                                [
+                                    ""
+                                ],
+                            "install":
+                                [
+                                    {
+                                        "type": "pip",
+                                        "target": "torch torchvision",
+                                        "tested":
+                                            [
+                                                "xubuntu 14.04"
+                                            ]
+                                    }
+                                ]
+                        },
+                        {
+                            "name": "matplotlib",
+                            "desc": "",
+                            "type": "lib",
+                            "homepage":
+                                [
+                                    ""
+                                ],
+                            "doc":
+                                [
+                                    ""
+                                ],
+                            "install":
+                                [
+                                    {
+                                        "type": "pip",
+                                        "target": "matplotlib",
+                                        "tested":
+                                            [
+                                                "xubuntu 14.04"
+                                            ]
+                                    }
+                                ]
+                        },
+                        {
+                            "name": "pandas",
+                            "desc": "",
+                            "type": "lib",
+                            "homepage":
+                                [
+                                    ""
+                                ],
+                            "doc":
+                                [
+                                    ""
+                                ],
+                            "install":
+                                [
+                                    {
+                                        "type": "pip",
+                                        "target": "pandas",
+                                        "tested":
+                                            [
+                                                "xubuntu 14.04"
+                                            ]
+                                    }
+                                ]
+                        },
+                        {
+                            "name": "PyQt5",
+                            "desc": "",
+                            "type": "lib",
+                            "homepage":
+                                [
+                                    ""
+                                ],
+                            "doc":
+                                [
+                                    ""
+                                ],
+                            "install":
+                                [
+                                    {
+                                        "type": "pip",
+                                        "target": "PyQt5",
+                                        "tested":
+                                            [
+                                                "xubuntu 14.04"
+                                            ]
+                                    }
+                                ]
+                        }
+                    ]
+            }
+
+        ]
+}
